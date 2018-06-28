@@ -1,4 +1,4 @@
-# puppeteer-github
+# Test puppeteer-github
 
 > [GitHub](https://github.com) automation driven by headless chrome.
 
